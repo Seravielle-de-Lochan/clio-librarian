@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+librarian_db/
+tests/test_db/
+*.log
+.env
